@@ -1,3 +1,4 @@
+#Author: Mykola Halynskyi
 import math
 
 import networkx as nx
